@@ -25,7 +25,7 @@ MaxPower - Ultimate Performance unleashes the maximum potential of your system, 
 - Download or clone this repository to your local machine.
 - Open a command prompt with administrator privileges.
 - Navigate to the location where you have downloaded/cloned the repository.
-- Run the command powercfg -import "<path_to_power_plan.pow>" to import the desired power plan.
+- Run the command <code>powercfg -import "<path_to_power_plan.pow>"</code> to import the desired power plan.
 - To change to a specific power plan, use the command powercfg -setactive <GUID>, where <GUID> represents the unique identifier of the desired power plan.
 Please exercise caution and ensure that you understand the implications of each power plan before selecting one. Note that some power plans may have specific requirements or dependencies, which are mentioned in their respective documentation.
 
